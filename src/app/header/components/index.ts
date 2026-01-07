@@ -1,0 +1,5 @@
+export { default as HeaderGithubLink } from './HeaderGithubLink.vue'
+export { default as HeaderHelp } from './HeaderHelp.vue'
+export { default as HeaderLogo } from './HeaderLogo.vue'
+export { default as HeaderThemeToggle } from './HeaderThemeToggle.vue'
+export { default as HeaderTitle } from './HeaderTitle.vue'
